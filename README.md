@@ -16,10 +16,10 @@ I'm a CS undergrad diving deep into the world of programming and problem-solving
 
 
 ### 🚀 My Goals:
-1 Contribute to open-source projects and learn best practices</br>
-2 Build a personal project portfolio with meaningful, fun projects</br>
-3 Master the basics of software development and code readability</br>
-4 Gain hands-on experience with Cybersecurity Challenges and Quantum Algorithms</br>
+1. Contribute to open-source projects and learn best practices</br>
+1. Build a personal project portfolio with meaningful, fun projects</br>
+1. Master the basics of software development and code readability</br>
+1. Gain hands-on experience with Cybersecurity Challenges and Quantum Algorithms</br>
 ### 🛠️ Languages & Tools:
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"> </br>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg">
